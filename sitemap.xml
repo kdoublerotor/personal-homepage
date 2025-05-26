@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/personal-homepage/cv/</loc>
+<loc>https://kdoublerotor.github.io/personal-homepage/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/personal-homepage/</loc>
+<loc>https://kdoublerotor.github.io/personal-homepage/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/personal-homepage/opinion/</loc>
+<loc>https://kdoublerotor.github.io/personal-homepage/opinion/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/personal-homepage/teaching/</loc>
+<loc>https://kdoublerotor.github.io/personal-homepage/teaching/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/personal-homepage/research/</loc>
+<loc>https://kdoublerotor.github.io/personal-homepage/research/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/personal-homepage/teaching/</loc>
+<loc>https://kdoublerotor.github.io/personal-homepage/teaching/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/personal-homepage/assets/files/cv_simon_roburin.pdf</loc>
+<loc>https://kdoublerotor.github.io/personal-homepage/assets/files/cv_simon_roburin.pdf</loc>
 <lastmod>2025-03-14T10:41:05+01:00</lastmod>
 </url>
 </urlset>
